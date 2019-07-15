@@ -1,11 +1,3 @@
-# 6.0001 Spring 2018
-# Written by: sylvant, muneezap, charz, anabell, nhung, wang19k, asinelni
-
-# Problem Set 3
-# Name: Shirin Amouei
-# Collaborators: None
-# Time Spent: 7:30
-# Late Days Used: (only if you are using any) 
 
 import string
 
